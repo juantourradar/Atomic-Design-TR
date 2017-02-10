@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="33" viewBox="0 0 80 33" version="1.1">
+  <defs> <rect id="path-1" x="16" y="0.6" width="64" height="32" rx="1"/>
+    <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="64" height="32" fill="white">
+      <use xlink:href="#path-1"/>
+    </mask>
+    <polygon id="path-3" points="12.94 15 12.94 0 0 0 0 15"/>
+  </defs>
+  <g id="Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="ATOMS" transform="translate(-69.000000, -4010.000000)">
+      <g id="Group-10" transform="translate(69.000000, 4010.000000)">
+        <use id="BG-Copy-15" stroke="#CCCCCC" mask="url(#mask-2)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-1"/>
+        <g id="Group-13-Copy-3" transform="translate(0.000000, 0.600000)" fill="#409CD1">
+          <path d="M32 16C32 24.84 24.84 32 16 32 7.16 32 0 24.84 0 16 0 7.16 7.16 0 16 0 24.84 0 32 7.16 32 16" id="Fill-19"/>
+        </g>
+        <g id="Page-1" transform="translate(10.000000, 7.600000)">
+          <mask id="mask-4" fill="white">
+            <use xlink:href="#path-3"/>
+          </mask>
+          <g id="Clip-2"/>
+          <path d="M9.42 5.3C9.31 5.01 12.28 2.27 10.55 0.06 10.14-0.46 8.77 2.54 6.82 3.89 5.74 4.64 3.23 6.24 3.23 7.12L3.23 12.82C3.23 13.88 7.21 15 10.23 15 11.33 15 12.94 7.85 12.94 6.72 12.94 5.58 9.52 5.6 9.42 5.3M2.43 5.38C1.89 5.38 0 5.71 0 7.98L0 12.02C0 14.29 1.89 14.54 2.43 14.54 2.96 14.54 1.62 14.06 1.62 12.66L1.62 7.35C1.62 5.87 2.96 5.38 2.43 5.38" id="Fill-1" fill="#FFFFFF" mask="url(#mask-4)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
