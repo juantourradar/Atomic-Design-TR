@@ -1,8 +1,5 @@
 # Atomic Design Principles @TourRadar
 
-
-![alt tag](http://i.imgur.com/M8mHUKn.png)
-
 We use this nomenclature to name all the
 small elements that belongs to our user
 interface. We use the word atom because
@@ -13,6 +10,8 @@ tags, inputs, handlers) form groups that
 build bigger elements called ‘molecules’
 (more complex handlers, a search bar with
 multiple inputs, pagination, etc)
+
+![alt tag](http://i.imgur.com/M8mHUKn.png)
 
 Continuing with this “cellular” metaphor we
 found the ‘organisms’ that consist of groups
