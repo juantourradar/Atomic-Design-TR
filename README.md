@@ -1,5 +1,7 @@
 # Atomic-Design-TR
 
+![alt tag](http://cdn.tourradar.com/im/r/pw/home/link/c/asia.jpg)
+
 We use this nomenclature to name all the
 small elements that belongs to our user
 interface. We use the word atom because
