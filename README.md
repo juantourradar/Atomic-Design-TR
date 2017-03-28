@@ -1,4 +1,4 @@
-# Atomic Design @TourRadar
+# Atomic Design Principles @TourRadar
 
 
 ![alt tag](http://i.imgur.com/iz2tt6P.png)
