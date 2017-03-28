@@ -1,6 +1,6 @@
 # Atomic-Design-TR
 
-![alt tag](http://cdn.tourradar.com/im/r/pw/home/link/c/asia.jpg)
+![alt tag](http://i.imgur.com/iz2tt6P.png)
 
 We use this nomenclature to name all the
 small elements that belongs to our user
