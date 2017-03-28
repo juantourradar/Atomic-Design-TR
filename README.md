@@ -1,7 +1,7 @@
 # Atomic Design Principles @TourRadar
 
 
-![alt tag](http://i.imgur.com/iz2tt6P.png)
+![alt tag](http://i.imgur.com/M8mHUKn.png)
 
 We use this nomenclature to name all the
 small elements that belongs to our user
