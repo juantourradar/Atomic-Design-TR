@@ -1,4 +1,5 @@
-# Atomic-Design-TR
+# Atomic Design @TourRadar
+
 
 ![alt tag](http://i.imgur.com/iz2tt6P.png)
 
